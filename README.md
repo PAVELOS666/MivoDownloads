@@ -4,7 +4,7 @@ Installers for the free Mivo apps for Windows 10 and 11 (64-bit). More about eac
 
 | App | What it is | Installer |
 |---|---|---|
-| **MivoSurf** | Private browser: cookie vault against cookie stealers, fingerprint protection, ad blocking, Netflix / Prime Video (DRM) | [MivoSurf-Setup-1.0.1.exe](https://github.com/PAVELOS666/MivoDownloads/releases/latest/download/MivoSurf-Setup-1.0.1.exe) |
+| **MivoSurf** | Private browser: cookie vault against cookie stealers, fingerprint protection, ad blocking, Netflix / Prime Video (DRM) | [MivoSurf-Setup-1.0.2.exe](https://github.com/PAVELOS666/MivoDownloads/releases/latest/download/MivoSurf-Setup-1.0.2.exe) |
 | **MivoPlay** | Music and video player with a library and downloads | [MivoPlay-Setup-1.8.2.exe](https://github.com/PAVELOS666/MivoDownloads/releases/latest/download/MivoPlay-Setup-1.8.2.exe) |
 | **MivoIngest** | DaVinci Resolve plugin: download media and import it straight into the Media Pool | [MivoIngest-Setup-1.0.0.exe](https://github.com/PAVELOS666/MivoDownloads/releases/latest/download/MivoIngest-Setup-1.0.0.exe) |
 
@@ -23,7 +23,7 @@ irm https://raw.githubusercontent.com/PAVELOS666/MivoDownloads/main/install/mivo
 `SHA256SUMS.txt` is attached to every release. Check a download in PowerShell:
 
 ```powershell
-Get-FileHash .\MivoSurf-Setup-1.0.1.exe -Algorithm SHA256
+Get-FileHash .\MivoSurf-Setup-1.0.2.exe -Algorithm SHA256
 ```
 
 ## SmartScreen
